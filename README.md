@@ -3,4 +3,4 @@ Repository for my project assessing trends and changes in frequency of plane cra
 
 This is the repo for my ITEC 4220 Advanced Analytics project in which I assess trends in air crashes and their associated fatalities over time. To start, I 
 downloaded the historical plane crash data set as PlaneCrashes.csv from Kaggle at the url https://www.kaggle.com/datasets/abeperez/historical-plane-crash-data. 
-With this project, I hope to evaluate the relative safety of air travel across eras of aviation.
+With this project, I hope to evaluate the relative safety of air travel across different eras of aviation.
