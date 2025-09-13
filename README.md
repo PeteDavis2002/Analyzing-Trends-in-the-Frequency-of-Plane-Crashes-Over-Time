@@ -8,3 +8,5 @@ With this project, I hope to evaluate the relative safety of air travel across d
 [Statistical tests and vizualization in R markdown](https://rpubs.com/petedavis2002/1340287)
 
 [html](https://github.com/PeteDavis2002/Analyzing-Trends-in-the-Frequency-of-Plane-Crashes-Over-Time/blob/main/PlaneCrashesMarkdown.html)
+
+[PlaneCrashes dataset as JSON](https://github.com/PeteDavis2002/Analyzing-Trends-in-the-Frequency-of-Plane-Crashes-Over-Time/blob/main/PlaneCrashes.json)
