@@ -5,6 +5,8 @@ This is the repo for my ITEC 4220 Advanced Analytics project in which I assess t
 downloaded the historical plane crash data set as PlaneCrashes.csv from Kaggle at the url https://www.kaggle.com/datasets/abeperez/historical-plane-crash-data. 
 With this project, I hope to evaluate the relative safety of air travel across different eras of aviation.
 
+Here is some preliminary analysis in R:
+
 ```
 pc <- read.csv("PlaneCrashes.csv")
 Year <- pc$Year
