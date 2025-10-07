@@ -12,3 +12,10 @@ With this project, I hope to evaluate the relative safety of air travel across d
 [PlaneCrashes dataset as JSON](https://github.com/PeteDavis2002/Analyzing-Trends-in-the-Frequency-of-Plane-Crashes-Over-Time/blob/main/PlaneCrashes.json)
 
 [GitHub repo](https://petedavis2002.github.io/Analyzing-Trends-in-the-Frequency-of-Plane-Crashes-Over-Time)
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="dPGNoWj" data-pen-title="D3 v7 load data" data-user="PeteDavis2002" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/PeteDavis2002/pen/dPGNoWj">
+  D3 v7 load data</a> by Peter Davis (<a href="https://codepen.io/PeteDavis2002">@PeteDavis2002</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://public.codepenassets.com/embed/index.js"></script>
