@@ -9,7 +9,7 @@ With this project, I hope to evaluate the relative safety of air travel across d
 
 [html](https://github.com/PeteDavis2002/Analyzing-Trends-in-the-Frequency-of-Plane-Crashes-Over-Time/blob/main/PlaneCrashesMarkdown.html)
 
-[PlaneCrashes dataset as JSON](https://github.com/PeteDavis2002/PlaneCrashes.json)
+[PlaneCrashes dataset as JSON](https://raw.githubusercontent.com/PeteDavis2002/Analyzing-Trends-in-the-Frequency-of-Plane-Crashes-Over-Time/refs/heads/main/PlaneCrashes.json)
 
 [GitHub repo](https://petedavis2002.github.io/Analyzing-Trends-in-the-Frequency-of-Plane-Crashes-Over-Time)
 
